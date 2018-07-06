@@ -1,5 +1,33 @@
 <?php
 
+$pgsqlDb = parse_url(getenv("DATABASE_URL"));
+
+$pgsqlHost = env('DB_HOST', '127.0.0.1');
+$pgsqlPort = env('DB_PORT', '5432');
+$pgsqlPath = env('DB_DATABASE', 'forge');
+$pgsqlUser = env('DB_USERNAME', 'forge');
+$pgsqlPass = env('DB_PASSWORD', '');
+
+if (isset($pgsqlDb["host"])) {
+    $pgsqlHost = $pgsqlDb["host"];
+}
+
+if (isset($pgsqlDb["port"])) {
+    $pgsqlPort = $pgsqlDb["port"];
+}
+
+if (isset($pgsqlDb["path"])) {
+    $pgsqlPath = ltrim($pgsqlDb["path"], "/");
+}
+
+if (isset($pgsqlDb["user"])) {
+    $pgsqlUser = $pgsqlDb["user"];
+}
+
+if (isset($pgsqlDb["pass"])) {
+    $pgsqlPass = $pgsqlDb["pass"];
+}
+
 return [
 
     /*
