@@ -17,6 +17,14 @@
         "jquery": "^3.2",
         "laravel-mix": "^2.0",
         "lodash": "^4.17.4",
-        "vue": "^2.5.7"
+        "vue": "^2.5.7",
+        "breakpoints": "0.0.0",
+        "breakpoints-js": "^1.0.5",
+        "browser": "^0.2.6",
+        "jquery.scrollex": "^0.2.1",
+        "jquery.scrolly": "0.0.1"
+    },
+    "dependencies": {
+        "font-awesome": "^4.7.0"
     }
 }
