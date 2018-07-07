@@ -6,8 +6,6 @@
 
 (function($) {
 
-	console.log('hello world');
-
 	var	$window = $(window),
 		$body = $('body'),
 		$sidebar = $('#sidebar');

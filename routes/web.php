@@ -14,3 +14,6 @@
 Route::get('/', function () {
     return view('pages.home');
 });
+
+Route::post('fetch/articles', 'PageController@fetchArticles')->name('articles.fetch');
+Route::post('fetch/article', 'PageController@fetchArticle')->name('article.fetch');

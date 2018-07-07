@@ -1,9 +1,10 @@
 
 window._ = require('lodash');
 window.Popper = require('popper.js').default;
-window.browser = require('browser');
-window.breakpoints = require('breakpoints');
+// window.browser = require('./vendors/browser.min.js');
+// window.breakpoints = require('./vendors/breakpoints.min.js');
 
+// console.log(browser);
 
 /**
  * We'll load jQuery and the Bootstrap jQuery plugin which provides support
@@ -17,10 +18,9 @@ try {
     // require('bootstrap');
 } catch (e) {}
 
-require('jquery.scrollex');
-require('jquery.scrolly');
-require('./vendors/util.js');
-require('./vendors/main.js');
+// require('./vendors/jquery.scrollex.min.js');
+// require('./vendors/jquery.scrolly.min.js');
+// require('./vendors/util.js');
 
 /**
  * We'll load the axios HTTP library which allows us to easily issue requests

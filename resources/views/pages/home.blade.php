@@ -8,9 +8,8 @@
 <!-- Intro -->
     <section id="intro" class="wrapper style1 fullscreen fade-up">
         <div class="inner">
-            <h1>Hyperspace</h1>
-            <p>Just another fine responsive site template designed by <a href="http://html5up.net">HTML5 UP</a><br />
-            and released for free under the <a href="http://html5up.net/license">Creative Commons</a>.</p>
+            <h1>Welcome</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita nobis nam doloribus quos delectus explicabo nihil dignissimos veniam culpa facere iusto consequuntur, a voluptatum magni. Perferendis odit placeat inventore cumque.</p>
             <ul class="actions">
                 <li><a href="#one" class="button scrolly">Learn more</a></li>
             </ul>
@@ -23,7 +22,7 @@
             <a href="#" class="image"><img src="/images/pic01.jpg" alt="" data-position="center center" /></a>
             <div class="content">
                 <div class="inner">
-                    <h2>Sed ipsum dolor</h2>
+                    <h2>Education Background</h2>
                     <p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
                     <ul class="actions">
                         <li><a href="generic.html" class="button">Learn more</a></li>
@@ -35,19 +34,7 @@
             <a href="#" class="image"><img src="/images/pic02.jpg" alt="" data-position="top center" /></a>
             <div class="content">
                 <div class="inner">
-                    <h2>Feugiat consequat</h2>
-                    <p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
-                    <ul class="actions">
-                        <li><a href="generic.html" class="button">Learn more</a></li>
-                    </ul>
-                </div>
-            </div>
-        </section>
-        <section>
-            <a href="#" class="image"><img src="/images/pic03.jpg" alt="" data-position="25% 25%" /></a>
-            <div class="content">
-                <div class="inner">
-                    <h2>Ultricies aliquam</h2>
+                    <h2>Professional Experience</h2>
                     <p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
                     <ul class="actions">
                         <li><a href="generic.html" class="button">Learn more</a></li>
@@ -60,37 +47,37 @@
 <!-- Two -->
     <section id="two" class="wrapper style3 fade-up">
         <div class="inner">
-            <h2>What we do</h2>
+            <h2>What I do</h2>
             <p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit quis lorem.</p>
             <div class="features">
                 <section>
-                    <span class="icon major fa-code"></span>
-                    <h3>Lorem ipsum amet</h3>
+                    <span class="icon major"><i class="fa fa-code"></i></span>
+                    <h3>Web Developer</h3>
                     <p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
                 </section>
                 <section>
-                    <span class="icon major fa-lock"></span>
-                    <h3>Aliquam sed nullam</h3>
+                    <span class="icon major"><i class="fab fa-laravel"></i></span>
+                    <h3>Laravel and PHP</h3>
                     <p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
                 </section>
                 <section>
-                    <span class="icon major fa-cog"></span>
-                    <h3>Sed erat ullam corper</h3>
+                    <span class="icon major"><i class="fab fa-html5"></i></span>
+                    <h3>HTML and CSS</h3>
                     <p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
                 </section>
                 <section>
-                    <span class="icon major fa-desktop"></span>
-                    <h3>Veroeros quis lorem</h3>
+                    <span class="icon major"><i class="fab fa-vuejs"></i></span>
+                    <h3>Vue.js and JavaScript</h3>
                     <p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
                 </section>
                 <section>
-                    <span class="icon major fa-chain"></span>
-                    <h3>Urna quis bibendum</h3>
+                    <span class="icon major"><i class="fa fa-mobile-alt"></i></span>
+                    <h3>Cordova</h3>
                     <p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
                 </section>
                 <section>
-                    <span class="icon major fa-diamond"></span>
-                    <h3>Aliquam urna dapibus</h3>
+                    <span class="icon major"><i class="fab fa-linux"></i></span>
+                    <h3>Ubuntu and Bash</h3>
                     <p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
                 </section>
             </div>
@@ -131,26 +118,50 @@
                     <ul class="contact">
                         <li>
                             <h3>Address</h3>
-                            <span>12345 Somewhere Road #654<br />
-                            Nashville, TN 00000-0000<br />
-                            USA</span>
+                            <span>Cubao, Quezon City,<br />
+                            Philippines</span>
                         </li>
                         <li>
                             <h3>Email</h3>
-                            <a href="#">user@untitled.tld</a>
+                            <a href="mailto:mattiyahu11@gmail.com">mattiyahu11@gmail.com</a>
                         </li>
                         <li>
                             <h3>Phone</h3>
-                            <span>(000) 000-0000</span>
+                            <span>(+63) 915 883 3687</span>
                         </li>
                         <li>
                             <h3>Social</h3>
                             <ul class="icons">
-                                <li><a href="#" class="fa-twitter"><span class="label">Twitter</span></a></li>
-                                <li><a href="#" class="fa-facebook"><span class="label">Facebook</span></a></li>
-                                <li><a href="#" class="fa-github"><span class="label">GitHub</span></a></li>
-                                <li><a href="#" class="fa-instagram"><span class="label">Instagram</span></a></li>
-                                <li><a href="#" class="fa-linkedin"><span class="label">LinkedIn</span></a></li>
+                                <li>
+                                    <a href="#">
+                                        <i class="fab fa-twitter"></i>
+                                        <span class="label">Twitter</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <i class="fab fa-facebook"></i>
+                                        <span class="label">Facebook</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://github.com/std-matthew">
+                                        <i class="fab fa-github"></i>
+                                        <span class="label">GitHub</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <i class="fab fa-instagram"></i>
+                                        <span class="label">Instagram</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.linkedin.com/in/matthew-molina-4a1a7b13b">
+                                        <i class="fab fa-linkedin"></i>
+                                        <span class="label">LinkedIn</span>
+                                    </a>
+                                </li>
                             </ul>
                         </li>
                     </ul>
